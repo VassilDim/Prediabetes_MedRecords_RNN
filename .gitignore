@@ -1,0 +1,5 @@
+# Ignore files for git and github
+*.pkl
+*.xlsx
+*.txt
+.ipynb_checkpoints
